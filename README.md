@@ -21,3 +21,9 @@ Porovnání podle věku, pohlaví a krajů. Využívá vizualizace jako 100% sta
 
 ### 3. Diagnóza a výkon
 Ukazuje rozdělení pacientů dle evidence diagnózy diabetu a vykázaných zdravotních výkonů, včetně doprovodných metrik v přehledových kartách.
+
+## Stažení Power BI projektu
+
+Projektový soubor Power BI (.pbix) si můžete stáhnout zde:
+
+[Stáhnout project_diabetes.pbix (Google Drive)](https://drive.google.com/file/d/1xKYIQ3sWQaOvz_aeklbXRsCluIdg1rVC/view?usp=sharing)
